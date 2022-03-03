@@ -1,5 +1,3 @@
-# Aver-Tecs-Productions
-
 SOFTWARES USED:
 
 1)Third Party system used - XAMPP 2)Framework Used - Joomla! 3.9 3)iFrame used - Pesapal
